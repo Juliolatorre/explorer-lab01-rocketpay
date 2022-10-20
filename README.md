@@ -18,8 +18,19 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="rocketpay" src=".github/Capa.png" width="400">
 </p>
+
+## 🖥 Preview
+
+<p align="center">
+  <img width="500" src="./.github/Capture%2002%20-%20RocketpayVisa.png">
+  <img width="500" src="./.github/Capture%2003%20-%20RocketpayMaster.png">
+</p>
+
+<h4 align="center"> 
+	🚧 Explorer Lab #1 - Projeto Finalizado 🚀 🚧
+</h4>
 
 ## 🚀 Tecnologias
 
